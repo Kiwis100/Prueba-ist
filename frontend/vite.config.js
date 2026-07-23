@@ -5,7 +5,7 @@ export default defineConfig(({ command }) => ({
   plugins: [react()],
   // Use the repo name as base path only for production builds (GitHub Pages).
   // Dev server keeps base '/' so the local proxy still works.
-  base: command === 'build' ? '/instana-events-exporter/' : '/',
+  base: command === 'build' ? '/Pruebo-ist/' : '/',
   server: {
     port: 5173,
     host: '0.0.0.0',
