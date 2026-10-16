@@ -1,5 +1,5 @@
 {
-  "name": "instana-events-exporter-frontend",
+  "name": "instana-logs-exporter-frontend",
   "version": "1.0.0",
   "private": true,
   "type": "module",
